@@ -1,0 +1,8 @@
+body{
+background-color: blanchedalmond;
+}
+.flexcontainer{
+display:flex;
+justify-content: center;
+gap: 70px;
+}
